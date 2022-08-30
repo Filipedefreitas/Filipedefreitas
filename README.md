@@ -1,11 +1,11 @@
 ### Hello World 👋
 I am a software developer from Brazil
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning C# and .NET
+- 🔭 Working on multiple frontend and backend project using Java and Python
+- 🌱 Learning system development and analysis
 <br>
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/filipe-de-freitas-50a817123/)
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](Working on it :P)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />(Working on it :P)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://pt.stackoverflow.com/users/245282/filipe-de-freitas)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/filipe.defreitas.98)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](i don't have a twitter account)
